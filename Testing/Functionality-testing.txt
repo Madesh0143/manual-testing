@@ -1,0 +1,36 @@
+                                                    FUNCTIONALITY TESTING
+                                                  *************************
+DEFINITION:-
+  -> Testing each and every components thoroughly against the requirement specification we call it as functionality testing.
+  -> Components means textbox,radio button,checkbox,links etc...
+  -> Thoroughly means by entering all the valid and invalid datas.
+  -> Functionality testing is done by test engineers.
+
+THREE WAY'S OF FUNCTIONALITY TESTING:-
+  - Over Testing.
+  - Under Testing.
+  - Optimization Testing.
+
+1.OVER TESTING:-
+  -> Testing the application with same set of scenarios again ans again is know as over testing.
+
+  DISADVANTAGES OF OVER TESTING:-
+  -> They may leads to wastage of time.
+
+2.UNDER TESTING:-
+  -> Testing the application with insufficient of scenarios we know as under testing.
+
+  DISADVANTAGES OF UNDER TESTING:-
+  -> We may miss the certain defects.
+
+3.OPTIMIZATION TESTING
+  -> Testing the application with sufficient of scenarios we know as Optimization testing.
+
+  ADVANTAGES OF UNDER TESTING:-
+  -> We may identified more no.of defects in a short term period of time.
+
+HOW DO WE DO NUMBER EACH AND EVERY LINE OF REQUIREMENTS:-
+  -> They communication becomes very easy 
+  -> It is easy to understand
+  -> We will get a better clarity
+  -> It becomes traceable
